@@ -1,0 +1,129 @@
+{
+    "conservation_status": {
+        "NE": {
+            "vi": "Không được đánh giá",
+            "en": "Not Evaluated"
+        },
+        "DD": {
+            "vi": "Thiếu dữ liệu",
+            "en": "Data Deficient"
+        },
+        "LC": {
+            "vi": "Ít quan tâm",
+            "en": "Least Concern"
+        },
+        "NT": {
+            "vi": "Sắp bị đe dọa",
+            "en": "Near Threatened"
+        },
+        "VU": {
+            "vi": "Sắp nguy cấp",
+            "en": "Vulnerable"
+        },
+        "EN": {
+            "vi": "Nguy cấp",
+            "en": "Endangered"
+        },
+        "CR": {
+            "vi": "Cực kỳ nguy cấp",
+            "en": "Critically Endangered"
+        },
+        "EW": {
+            "vi": "Tuyệt chủng trong tự nhiên",
+            "en": "Extinct in the Wild"
+        },
+        "EX": {
+            "vi": "Tuyệt chủng",
+            "en": "Extinct"
+        }
+    },
+    
+    "accordion": {
+        "result_section": {
+            "vi": "🗂 Kết Quả",
+            "en": "🗂 Results"
+        },
+
+        "info_section": {
+            "vi": "ℹ Thông tin",
+            "en": "ℹ Information"
+        },
+
+        "fun_fact": {
+            "vi": "🤔 Bạn có biết?",
+            "en": "🤔 Did you know?"
+        }, 
+    
+        "status": {
+            "vi": "🐢 Tình trạng bảo tồn",
+            "en": "🐢 Conservation status"
+        },
+
+        "law": {
+            "vi": "👮‍♀️ Luật",
+            "en": "👮‍♀️ Law"
+        },
+
+        "info": {
+            "vi": "🥸 Bạn cần làm gì khi bắt gặp?",
+            "en": "🥸 What do you need to do when you come across?"
+        }
+    }, 
+
+    "info": {
+        "law_protection": {
+            "vi": "Đây là loài được pháp luật bảo vệ. Mọi hành vi buôn bán, nuôi nhốt không có [giấy phép](https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Nghi-dinh-06-2019-ND-CP-quan-ly-thuc-vat-rung-dong-vat-rung-nguy-cap-quy-hiem-405883.aspx) đều vi phạm pháp luật",
+            "en": "This species is protected by law. All acts of trafficking and captive breeding without [authority permisison](https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Nghi-dinh-06-2019-ND-CP-quan-ly-thuc-vat-rung-dong-vat-rung-nguy-cap-quy-hiem-405883.aspx) are illegal"
+        },
+
+        "report": {
+            "vi": "Nếu bạn vô tình bắt gặp loài này bị buôn bán mà không có giấy phép, tuyệt đối không mua nhằm bất kỳ mục đích gì (ví dụ để phóng sinh) mà nên báo cáo vi phạm tại đường dây nóng bảo vệ DVHD của ENV **1800-1522**.",
+            "en": "If you happen to come across this species being traded without a license, do not buy for any purpose (e.g., to release). Instead, you should report the suspicious act to ENV via their hotline **1800-1522**."
+        }, 
+
+        "deliver": {
+            "vi": "Nếu bạn đang nuôi thì nên giao nộp cho cơ quan chức năng để trả về tự nhiên. Tham khảo đơn vị tiếp nhận DVHD ở địa phương bạn tại [đây](https://drive.google.com/file/d/1K2ZWcHKGEsNudh_LtHgHJOXlVw-GQ6AZ/view).",
+            "en": "If you are raising them, you should hand them over to the authorities to return to the wild. Find your local wild-animal receiver [here](https://drive.google.com/file/d/1K2ZWcHKGEsNudh_LtHgHJOXlVw-GQ6AZ/view)."
+        },
+
+        "release": {
+            "vi": "Nếu bạn bắt gặp trong vườn nhà thì có thể xem xét thả chúng về môi trường sống. Hãy đảm bảo nơi bạn thả là", 
+            "en": "If you find them in your garden, consider releasing them back into their habitat. Please make sure the place you release is"
+        },
+       
+        "ATP_contact": {
+            "vi": "Liên hệ Chương trình Bảo tồn Rùa châu Á ([ATP](https://asianturtleprogram.org/vi/)) qua email: info@asianturtleprogram.org hoặc [Facebook](https://www.facebook.com/search/top?q=asian%20turtle%20program) để được hướng dẫn trong các trường hợp cụ thể", 
+            "en": "Contact Asian Turtle Program ([ATP](https://asianturtleprogram.org/)) via email (info@asianturtleprogram.org) or [Facebook](https://www.facebook.com/search/top?q=asian%20turtle%20program) for instructions in specific cases."
+        }
+    },
+
+    "label": {
+        "label_inp_img": {
+            "vi": "Ảnh đầu vào",
+            "en": "Input Image"
+        },
+
+        "label_out_pred": {
+            "vi": "Kết quả",
+            "en": "Predictions"
+        },
+
+        "label_run_btn": {
+            "vi": "🤖 Nhận dạng",
+            "en": "🤖 Identify"
+        },
+
+        "label_check_btn": {
+            "vi": "🔎 Đối chiếu",
+            "en": "🔎 Compare"
+        }, 
+        "label_verify_btn": {
+            "vi": "✅ Xác nhận để xem thông tin",
+            "en": "✅ Verify to read information"
+        }
+    }
+
+    
+    
+    
+}
